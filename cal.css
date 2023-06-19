@@ -3,8 +3,8 @@
     padding: 0;
   }
 #calculator{
-    width: 486px;    
-    height: 746px;
+    width: 486px;
+    height: 639px;
     background-color: darkgrey;
 }
 #eval{
@@ -15,23 +15,23 @@
 }
 .numbers{
     display: inline-block;     /*very important*/
-    width: 43.1px;
+    width: 118.3px;
     background-color: black;
-    height: 267px;
+    height: 105px;
 }
 #d_0{
-    width: 491.8px;
+    width: 240.8px;
 }
 .sign{
     background-color: brown;
 }
 .digit{
-    width: 243px;
+    width: 63px;
     display:
     table;
     color: white;
     text-align: center;
-    font-size: 99px;
+    font-size: 55px;
 }
 #i_0{
     width: 98px;
@@ -40,5 +40,5 @@
     color: white;
     text-align:
     end;
-    font-size: 96px;
+    font-size: 70px;
 }
