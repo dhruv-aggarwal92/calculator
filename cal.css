@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+#calculator{
+    width: 486px;    
+    height: 746px;
+    background-color: darkgrey;
+}
+#eval{
+    width: 486px;
+    height: 96px;
+    background-color:
+    dimgray;
+}
+.numbers{
+    display: inline-block;     /*very important*/
+    width: 43.1px;
+    background-color: black;
+    height: 267px;
+}
+#d_0{
+    width: 491.8px;
+}
+.sign{
+    background-color: brown;
+}
+.digit{
+    width: 243px;
+    display:
+    table;
+    color: white;
+    text-align: center;
+    font-size: 99px;
+}
+#i_0{
+    width: 98px;
+}
+#display{
+    color: white;
+    text-align:
+    end;
+    font-size: 96px;
+}
